@@ -14,9 +14,11 @@ Using these models we try to predict the popularity of a new's item based on sev
 
 Also draw study the outcomes of these models, reaching conclusions stemming from their learning behaviour.
 
+[Link to the original Jupyter Notebook Project](https://notebooks.azure.com/pedro1998pinho/projects/iart)
+
 For this project we make use of the [*scikit-learn*](https://scikit-learn.org/stable/) python module.
 
-The dataset we used can be found [here](http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms).  
+The dataset we used can be found [here](http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms). 
 
 #### Work done by:
 * Pedro Xavier Tavares Monteiro Correia de Pinho - up201605166@fe.up.pt
